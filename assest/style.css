@@ -53,7 +53,7 @@ body {
   justify-content: space-between;
   padding: 15px 53px;
   position: relative;
-  z-index: 10;
+  z-index: 999;
   margin: 0 auto;
   position: fixed;
   width: 100%;
